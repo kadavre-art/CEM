@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor2{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    margin-bottom: 30px;
+    background: yellow;
+
+}
+
+.fm-video{
+    width: 600px;
+    display: flex;
+}
+
